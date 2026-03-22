@@ -213,7 +213,7 @@ Detected anomalies may correspond to:
 ## 👥 Team AstroSync  
 
 - [Aayush Agarwal](https://github.com/AayushAgarwal-IITDelhi)  
-- Aniruddha Ganbote
+- [Aniruddha Ganbote](https://github.com/AniruddhaGanbote)
 - [Vanshika Kataria](https://github.com/Vk2008)  
 
 ---
