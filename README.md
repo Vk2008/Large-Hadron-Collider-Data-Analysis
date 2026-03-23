@@ -160,7 +160,7 @@ Tabular model performed better due to structured, meaningful features.
 ---
 
 ### 📉 Training Result  
-- Reconstruction Loss ≈ **4.6 × 10⁴**
+- Reconstruction Loss ≈ **4.6 × 1e-4**
 
 ---
 
@@ -215,8 +215,5 @@ Detected anomalies may correspond to:
 - [Aayush Agarwal](https://github.com/AayushAgarwal-IITDelhi)  
 - [Aniruddha Ganbote](https://github.com/AniruddhaGanbote)
 - [Vanshika Kataria](https://github.com/Vk2008)  
-
----
-This project was submitted as part of **Impact Metrics, Jagriti 2026**.
 
 ---
